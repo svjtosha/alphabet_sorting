@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509287896 source:c:\users\svjtosha777\documents\lessons\alphabet_sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+
